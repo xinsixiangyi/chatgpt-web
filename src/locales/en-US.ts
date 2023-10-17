@@ -26,6 +26,7 @@ export default {
     failed: 'Failed',
     verify: 'Verify',
     unauthorizedTips: 'Unauthorized, please verify first.',
+    stopResponding: 'Stop Responding',
   },
   chat: {
     newChatButton: 'New Chat',
@@ -59,6 +60,8 @@ export default {
     name: 'Name',
     description: 'Description',
     role: 'Role',
+    temperature: 'Temperature',
+    top_p: 'Top_p',
     resetUserInfo: 'Reset UserInfo',
     chatHistory: 'ChatHistory',
     theme: 'Theme',
